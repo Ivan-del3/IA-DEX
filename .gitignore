@@ -1,0 +1,20 @@
+# Repositorios externos
+mi-ia/datos/pokeapi/
+mi-ia/conversion/llama.cpp/
+
+# Modelo fusionado
+mi-ia/conversion/pokemon-qwen-fusionado/
+
+# Modelo GGUF 
+mi-ia/modelo/pokemon-qwen.gguf
+
+# Checkpoints de entrenamiento
+mi-ia/entrenamiento/pokemon-qwen-lora/
+
+# Log
+mi-ia/entrenamiento/entrenamiento.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
